@@ -45,7 +45,7 @@ You can deploy the site easily on **GitHub Pages**:
 1. Push your code to the `main` branch.
 2. Go to **Settings → Pages**.
 3. Select the `main` branch and save.
-4. Your site will be live at `https://<username>.github.io/KHS-Startup/`.
+4. Your site will be live at `https://tawfiksharaf.github.io/Restaurant-website/`.
 
 ## 👨‍💻 Author
 
